@@ -3,6 +3,10 @@
 ## 概述
 NanoBananaImage 是一个适用于dow859项目的微信机器人生图插件，可以通过OpenRouter等平台的免费API 调用强大的NanoBanana模型实现文生图和图生图。
 
+## 使用示例
+<img width="725" height="625" alt="7dff2d9c-a1a5-4960-9bcb-be590e56e2d0" src="https://github.com/user-attachments/assets/735e7fac-41ff-4bde-b364-ad21ab26096e" />
+<img width="894" height="570" alt="e25be474-7527-4b1e-880c-5aec3d430d6e" src="https://github.com/user-attachments/assets/decf506e-ba88-49ec-b465-f2184170f56c" />
+
 ## 功能特性
 
 ### 1. 文生图功能
